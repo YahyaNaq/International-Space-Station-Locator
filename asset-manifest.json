@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/International-Space-Station-Locator/static/css/main.4f1d6cc6.css",
+    "main.js": "/International-Space-Station-Locator/static/js/main.5aab9269.js",
+    "static/js/787.45f3f33e.chunk.js": "/International-Space-Station-Locator/static/js/787.45f3f33e.chunk.js",
+    "static/media/NASA.png": "/International-Space-Station-Locator/static/media/NASA.5595a4ecbba36d9e6101.png",
+    "static/media/YahyaN.png": "/International-Space-Station-Locator/static/media/YahyaN.349df33bb4db93157602.png",
+    "index.html": "/International-Space-Station-Locator/index.html",
+    "static/media/Clock.svg": "/International-Space-Station-Locator/static/media/Clock.4b43c48bb05f7a5630e17c9de820a3da.svg",
+    "main.4f1d6cc6.css.map": "/International-Space-Station-Locator/static/css/main.4f1d6cc6.css.map",
+    "main.5aab9269.js.map": "/International-Space-Station-Locator/static/js/main.5aab9269.js.map",
+    "787.45f3f33e.chunk.js.map": "/International-Space-Station-Locator/static/js/787.45f3f33e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f1d6cc6.css",
+    "static/js/main.5aab9269.js"
+  ]
+}
